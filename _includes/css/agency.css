@@ -426,6 +426,14 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+#portfolio .section-heading {
+    text-align: center;
+}
+
+#portfolio .section-subheading {
+    text-align: left;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
